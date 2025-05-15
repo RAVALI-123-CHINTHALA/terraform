@@ -3,6 +3,6 @@ provider "azurerm" {
 }
 
 resource "azurerm_resource_group" "example" {
-  name     = "azurerg1"
+  name     = "Azurerg1"
   location = "East US"
 }
